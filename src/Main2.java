@@ -8,10 +8,10 @@ public class Main2 {
 
 
         /*Ask the user to enter the current hour (in 24-hour format). Use an if-else statement to greet the user based on the time of day:
-If the time is between 5 and 11, print "Good morning."
-If the time is between 12 and 17, print "Good afternoon."
-If the time is between 18 and 23, print "Good evening."
-For any other time, print "Good night."*/
+        If the time is between 5 and 11, print "Good morning."
+        If the time is between 12 and 17, print "Good afternoon."
+        If the time is between 18 and 23, print "Good evening."
+        For any other time, print "Good night."*/
 
         Scanner currenthour = new Scanner(System.in);
         System.out.println("currenthour");
